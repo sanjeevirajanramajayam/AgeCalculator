@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+body{
+    background: linear-gradient(135deg, #50C9C3,#96DEDA);
+}
+
+button{
+    margin-top: 15px;
+}
+
+h1{
+    font-size: 80px;
+    margin-bottom: 0;
+}
+
+h2{
+    font-size: xx-large;
+}
+
+p{
+    font-size: xx-large;
+}
+
+input{
+    width: 180px;
+    height: 40px;
+}
