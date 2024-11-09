@@ -7,6 +7,6 @@ function submit()
     if (age > 0)
     {
         p = document.getElementById("age-text");
-        p.innerHTML = "Your age is " + age.toString() + " years old"
+        p.innerHTML = "Your age is " + age.toString() + " years old."
     }
 }
